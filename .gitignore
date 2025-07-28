@@ -41,7 +41,7 @@ Thumbs.db
 
 # Jupyter Notebook metadata
 *.nbconvert.ipynb
-
+images/
 # Environment and config files
 *.env
 *.bak
